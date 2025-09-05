@@ -2,6 +2,9 @@
 
 This project builds a **machine learning model** to predict customer churn in a banking environment. The goal is to identify customers who are likely to leave the bank based on their attributes and usage patterns.  
 
+<img width="683" height="547" alt="image" src="https://github.com/user-attachments/assets/4c770ddf-d21b-4632-918f-abe4ba37e456" />
+
+
 ---
 
 ## 🔑 Key Steps  
