@@ -5,7 +5,7 @@ This project builds a **machine learning model** to predict customer churn in a 
 
 ---
 
-## 🔑 Key Steps  
+##  Key Steps  
 
 ### 1. Data Preparation  
 - Loaded the customer churn dataset.  
@@ -20,10 +20,10 @@ This project builds a **machine learning model** to predict customer churn in a 
 
 ### 3. Evaluation  
 Model performance was assessed using:  
-- ✅ **Accuracy Score**  
-- ✅ **Confusion Matrix** (visualized with heatmap)  
-- ✅ **Classification Report** (Precision, Recall, F1-score)  
-- ✅ **ROC Curve** and **AUC Score**  
+-  **Accuracy Score**  
+-  **Confusion Matrix** (visualized with heatmap)  
+-  **Classification Report** (Precision, Recall, F1-score)  
+-  **ROC Curve** and **AUC Score**  
 
 ### 4. Visualization  
 - Confusion Matrix heatmap for error analysis.  
@@ -31,12 +31,12 @@ Model performance was assessed using:
 
 ---
 
-## 📊 Outcome  
+##  Outcome  
 This notebook demonstrates how **Logistic Regression** can be applied to churn prediction, covering the full pipeline:  
 **data preprocessing → model training → evaluation → visualization**.  
 
 ---
-## 🛠️ Technologies Used
+##  Technologies Used
 
 Python (Pandas, NumPy)
 
@@ -46,7 +46,7 @@ Matplotlib & Seaborn (Visualizations)
 
 Jupyter Notebook
 
-## ⚡ How to Run  
+##  How to Run  
 
 1. Clone the repository:  
    ```bash
